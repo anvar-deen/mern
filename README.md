@@ -1,5 +1,5 @@
  What is the Shortcut Emmet Used to Create boilerplate of HTML ?   Answer :put "! "and then press enter it creates the boilerplate of the html.
- What is DOCTYPE in Html ? Answer: <!DOCTYPE html> is a declarationion it tells the browser that the document is using HTML code
+ What is DOCTYPE in Html ? Answer: <!DOCTYPE html> is a declarationion it tells the browser that the document is using HTML5.
  What is a Void Element? Give Examples  Answer: The elements that do not have a closing tag and cannot contain content. eg:<br>,<hr>.
  Difference Between Elements and Attributes  Answer: ELEMENTS:Element has an opening tag, content, and closing tag. ATTRIBUTES:It modifies the appearance of an element. eg:src,width.
  What are HTML Entities and Why Are They Needed? Answer:Html Entities are special codes used to display reserved characters or symbols in a webpage.Because some characters have special meanings in html to show them as normal characters we use entities.
